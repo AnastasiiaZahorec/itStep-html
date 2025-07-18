@@ -1,0 +1,45 @@
+.zagolovok{
+background-color: aquamarine;
+color: brown;
+padding:10px;
+border-radius: 20px;
+}
+
+img{
+    width: 500px;
+}
+.paragraf{
+background-color: lavender;
+color: blue;
+padding:20px;
+border-radius: 30px;
+
+}
+/* Стили для формы */
+.comment-form {
+    margin-top: 20px;
+}
+.button{
+    background-color: darkgreen;
+}
+.button:hover {
+    background-color: crimson;
+}
+.paragraf2{
+   background-color: peru;
+color: rgb(19, 68, 26);
+padding:20px;
+border-radius: 30px;
+}
+.zagolovok2{
+    background-color: rgb(155, 127, 255);
+color: brown;
+padding:20px;
+border-radius: 30px;
+}
+.zagolovok1{
+    background-color: rgb(127, 255, 144);
+color: brown;
+padding:20px;
+border-radius:10px 100px / 120px ;   
+}

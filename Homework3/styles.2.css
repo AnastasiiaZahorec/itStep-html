@@ -1,0 +1,50 @@
+ body {
+     font-family: Arial, sans-serif;
+     margin: 40px;
+ }
+
+ table {
+     border-collapse: collapse;
+     width: 80%;
+     margin: auto;
+ }
+
+ th,
+ td {
+     border: 1px solid #aaa;
+     padding: 12px;
+     text-align: left;
+ }
+
+ th {
+     background-color: #faf4f4;
+ }
+
+ caption {
+     font-size: 1.5em;
+     margin-bottom: 15px;
+ }
+
+ .Milk {
+     background-color: azure;
+     color: rgb(40, 80, 80);
+     padding: 20px;
+     border-radius: 30px
+ }
+
+ .script {
+     background-color: rgb(37, 141, 61);
+     color: rgb(104, 108, 225);
+     padding: 20px;
+     border-radius: 30px
+ }
+ img{
+    width: 500px;
+ }
+ .script2{
+    background-color: rgb(141, 37, 124);
+     color: rgb(104, 108, 225);
+     padding: 20px;
+     border-radius: 30px
+     
+ }
